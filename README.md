@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Khushal Rathod" src="./assets/gh-readme-header.png" /></a></p>
+<h1 align="center">hey there , I'm Khushal Rathod 👋</h1>
 
 <div align="center">
 <a href="https://www.instagram.com/khushal._rathod_/">
@@ -12,15 +12,12 @@
 <a href="https://github.com/khushalrathod">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/khushalrathod/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
 
 </div>
 <p></p>
 
-# 👋 Hi, I’m Khushal  
+###
+
 
 ### 🚀 Full Stack Developer | BCA Student (VNSGU)  
 
